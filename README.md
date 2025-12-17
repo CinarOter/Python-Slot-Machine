@@ -1,6 +1,6 @@
 # Python Slot Machine
 
-This is a simple slot machine game built in Python. You can place bets, spin the reels, and try to win by matching symbols. The game uses fun emoji symbols like cherries, watermelons, eggplants, lemons, and stars.
+This is a simple slot machine game built in Python. You can place bets, spin the reels, and try to win by matching symbols (this is for educational purposes only :3).
 
 I built this project to practice Python programming, working with functions, loops, and conditionals. It also demonstrates how to manage a game balance, handle user input, and calculate winnings.
 
@@ -31,4 +31,3 @@ Spinning...
 You won: £30  
 Do you want to spin again?: (Y/N) Y  
 
-This project is a fun way to practice Python programming and create a simple interactive game :3
